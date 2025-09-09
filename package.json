@@ -8,6 +8,7 @@
         "hot": "mix watch --hot",
         "prod": "npm run production",
         "production": "mix --production"
+        "test": "echo \"No tests specified\" && exit 0"
     },
     "devDependencies": {
         "@popperjs/core": "^2.10.2",
