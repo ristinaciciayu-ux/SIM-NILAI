@@ -20,9 +20,9 @@ jobs:
           node-version: "18"
 
       - name: Install dependencies
-        run: npm install 
+        run: npm install
         working-directory: sim-nilai
 
       - name: Run tests
         run: npm test
-        working-directory : sim-nilai
+        working-directory: sim-nilai
