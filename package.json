@@ -1,0 +1,20 @@
+{
+  "name": "htdocs",
+  "version": "1.0.0",
+  "description": "\"# Project Saya\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ristinaciciayu-ux/SIM-NILAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ristinaciciayu-ux/SIM-NILAI/issues"
+  },
+  "homepage": "https://github.com/ristinaciciayu-ux/SIM-NILAI#readme"
+}
