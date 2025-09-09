@@ -23,7 +23,10 @@ jobs:
         run: npm install
         working-directory: sim-nilai
 
-      - name: Build project
-        run: npm run build
+      - name: Build assets
+        run: npm run prod
         working-directory: sim-nilai
 
+      - name: Run tests (dummy)
+        run: npm test
+        working-directory: sim-nilai
