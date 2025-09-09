@@ -27,6 +27,6 @@ jobs:
         run: npm run prod
         working-directory: sim-nilai
 
-      - name: Run tests (dummy)
+      - name: Run tests
         run: npm test
         working-directory: sim-nilai
